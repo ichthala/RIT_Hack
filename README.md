@@ -1,7 +1,7 @@
 RIT_Hack
 ========
 
-You are now on the first_scaffold branch. A basic User scaffold (Model, View, and Controller components) has been created for you. Check app/models, app/controllers, and app/views to see what new files were added. Now you can add more scaffolds to represent any kind of resource you want.
+You are now on the first_scaffold branch. A basic User scaffold (Model, View, and Controller components) has been created for you. Check app/models, app/controllers, and app/views to see what new files were added. Also check db/migrate/, and you'll see a new file that specifies a migration (i.e.: How should database rows be represented as, or migrated to, code objects?). Now you can add more scaffolds to represent any kind of resource you want.
 
 ## first_scaffold - How to generate subsequent scaffolds that include model attributes
 - Within your Nitrous terminal, type the command to scaffold.
