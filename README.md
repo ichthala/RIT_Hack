@@ -3,7 +3,7 @@ RIT_Hack
 
 Welcome to the world of code!
 
-This repository has 4 branches, each containing a different step on the path toward setting up a basic Rails app. You can find directions for getting to the next step in the readme file on each branch.
+This repository has 3 branches, each containing a different step on the path toward setting up a basic Rails app. You can find directions for getting to the next step in the readme file on each branch.
 
 The structure is as follows:
 - master: An empty repository without a rails app
